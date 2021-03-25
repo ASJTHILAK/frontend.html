@@ -1,0 +1,52 @@
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 75px;
+}
+
+li a{
+	color: skyblue;
+	text-decoration: none;
+	font-family: jokerman;
+	font-size: 20px;
+}
+
+li a:hover{
+	color: red;
+}
+
+header{
+	background-color: black;
+	padding: 10px;
+	margin: 0;
+}
+
+footer{
+	background-color: black;
+	color: skyblue;
+	padding: 10px;
+	text-align: center;
+}
+
+h1{
+	background-color: skyblue;
+	text-align: center;
+	padding: 20px;
+	font-family: jokerman;
+	word-spacing: 20px;
+	margin: 0;
+}	
+
+h2{
+	font-family: arial;
+	word-spacing: 20px;
+}
+
+body{
+	padding: 0;
+	margin: 1;
+	background-image : url(https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;) 
+}
